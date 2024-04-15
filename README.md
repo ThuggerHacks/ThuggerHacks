@@ -31,7 +31,7 @@ I'm Braimo Selimane, a passionate software developer who thrives on solving chal
 ![ViroReact](https://img.shields.io/badge/-ViroReact-00A8E1?logo=viroreact&logoColor=white)
 ![ARCore](https://img.shields.io/badge/-ARCore-4285F4?logo=arcore&logoColor=white)
 
-### Graphics & AI
+### Graphics
 ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?logo=p5.js&logoColor=white)
 
 ## Let's Connect
