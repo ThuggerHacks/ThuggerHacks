@@ -38,4 +38,4 @@ I'm Braimo Selimane, a passionate software developer who thrives on solving chal
 Feel free to reach out if you're interested in collaborating, discussing projects, or just chatting about the latest in tech! 😄
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braimo-selimane-971a48231)
-[![Portfolio](https://braimoselimane.vercel.app/assets/img/favicon-32x32.png)](https://braimoselimane.vercel.app/)
+[![Portfolio](https://braimoselimane.vercel.app/assets/img/favicon-32x32.png)](https://braimoselimane.site/)
